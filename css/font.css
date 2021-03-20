@@ -1,0 +1,37 @@
+@font-face {
+    font-family: 'bebas_neue_light';
+    src: local('Bebas Neue Light'), local('BebasNeue-Light'), url('../fonts/BebasNeueLight/BebasNeueLight.otf') format('woff2'), 
+        url('../fonts/BebasNeueLight/BebasNeueLight.otf') format('otf'), 
+        url('../fonts/BebasNeueLight/BebasNeueLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'bebas_neue_regular';
+    src: local('Bebas Neue Regular'), local('BebasNeueRegular'), url('../fonts/BebasNeueRegular/BebasNeueRegular.otf') format('woff2'), 
+        url('../fonts/BebasNeueRegular/BebasNeueRegular.otf') format('woff'), 
+        url('../fonts/BebasNeueRegular/BebasNeueRegular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'bebas_neue_bold';
+
+    src: url('../fonts/bebasneuebold.eot');
+    src: local('Bebas Neue Bold'), local('BebasNeueBold'), 
+        url('../fonts/BebasNeueBold/BebasNeueBold.otf') format('embedded-opentype'),
+        url('../fonts/BebasNeueBold/BebasNeueBold.otf') format('woff'), 
+        url('../fonts/BebasNeueBold/BebasNeueBold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'aquarion';
+    src: url('../fonts/Aquarion/Aquarion.otf');
+    src: url('../fonts/Aquarion/Aquarion.otf') format('embedded-opentype'),
+         url('../fonts/Aquarion/Aquarion.otf') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
